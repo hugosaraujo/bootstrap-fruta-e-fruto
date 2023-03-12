@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.fonte-brand {
+    font-family: 'Pacifico', cursive;
+}
+
+.imagem-carrossel {
+    object-fit: cover;
+    height: 500px; 
+}
+
+.imagem-um {
+    object-position: 0 82%;
+}
+
+.imagem-dois {
+    object-position: 0% 55%;
+}
+
+.fonte-titulo {
+    font-family: 'Pacifico', cursive;
+}
