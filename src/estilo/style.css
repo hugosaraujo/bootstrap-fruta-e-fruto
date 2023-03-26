@@ -21,3 +21,11 @@
 .carrossel__titulo {
     font-family: 'Pacifico', cursive;
 }
+
+.cor-botao {
+    background-color: #820000;
+    color: #ECF9FF;
+}
+.cor-borda {
+    border-color: #820000;
+}
