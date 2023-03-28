@@ -4,6 +4,9 @@
     font-family: 'Pacifico', cursive;
     color: #820000;
 }
+#cor-titulo-navbar {
+    color: #820000;
+}
 
 .imagem-carrossel {
     object-fit: cover;
@@ -30,6 +33,11 @@
     background-color: #820000;
     color: #ECF9FF;
 }
+.cor-botao:hover {
+    background-color: #990000;
+    color: #ECF9FF;
+}
+
 .cor-borda {
     border-color: #820000;
 }
